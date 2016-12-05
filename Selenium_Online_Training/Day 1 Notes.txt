@@ -1,0 +1,201 @@
+Testing - requirements meet the expectations.
+
+
+defect - when that doesn't happen.
+
+
+
+Software Testing - 
+
+
+Automation - replacing man with a machine
+
+
+
+
+Regression testing - u test the application again and again, with every build release
+
+to ensure that the sanity of the application is maintained.
+
+
+repeatition - ideal candidates for test automation
+
+
+
+100% test automation possible?
+
+
+50-60% of test automation is possible 
+
+
+
+
+Selenium - rather a combination of test automation tools. 
+
+
+
+
+IDE - record and playback which works only with the firefox browser.
+
+
+Selenium Rc - selenium remote control.  client server technology
+
+3 way handshake
+
+proxy server which gets injected in the browser. and via this the client sends the requests to
+
+the proxy server which then automates the browser.
+
+
+
+Selenium RC  is same for all browsers - FF, IE, Chrome, Safari
+
+
+
+WebDriver - that thje browser own API itself has the capability to automate the browser. so its is a 
+
+direct handshake
+
+
+Each browser has got its own webdriver -
+
+FF, IE, Chrome, Safari
+
+
+
+
+Selenium Grid - allows us to run the test in parallel - at the same time more than one test
+
+in more that one system browser combination can be executed
+
+
+
+Login Logout
+
+
+a. Open the application
+
+b. click my account link
+
+c. type user name email id
+
+d. type password
+
+e. click sign in button
+
+f. verify you see "My Account Information" on page
+
+g. click log off link
+
+h. click continue button
+
+i. verify you do not see log off link on page
+
+
+
+
+
+
+Firefox Version - 46 -https://ftp.mozilla.org/pub/firefox/releases/46.0/
+
+E.g. for win 32- https://ftp.mozilla.org/pub/firefox/releases/46.0/win32/en-US/
+
+win 64 bit - https://ftp.mozilla.org/pub/firefox/releases/46.0/win64/en-US/
+
+
+
+
+
+
+
+
+Selenium RC vs Selenium Webdriver - http://stackoverflow.com/questions/11535950/difference-between-selenium-rc-and-webdriver
+
+
+
+
+Selenium Google Group- https://groups.google.com/forum/#!forum/selenium-users
+
+
+Support on Selenium - http://www.seleniumhq.org/support/
+
+
+
+
+Read Selenium Tutorials - http://www.softwaretestinghelp.com/selenium-tutorial-1/
+
+Selenium Doc- http://www.seleniumhq.org/docs/
+
+
+Day by day topics- http://www.softwaretestinghelp.org/selenium-training-online-course/ [scroll down]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

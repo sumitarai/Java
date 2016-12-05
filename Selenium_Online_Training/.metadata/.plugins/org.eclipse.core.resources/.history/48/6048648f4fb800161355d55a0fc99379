@@ -1,0 +1,26 @@
+package week2;
+
+import java.util.Scanner;
+
+public class FindDuplicate {
+// find duplicate characters in String
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String letters;
+		int i, count;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter any word: ");
+		letters = scan.nextLine();
+		
+		char ch;
+		for(ch=(char)65; ch<=90; ch++)
+		{
+			count=0;
+			
+		}
+		
+scan.close();
+	}
+
+}

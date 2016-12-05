@@ -1,0 +1,28 @@
+package week2;
+
+import java.util.Scanner;
+
+public class PrimeNum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int startRange;
+		int endRange;
+				
+		Scanner scan= new Scanner(System.in);
+		System.out.println("Enter your start range ");
+		startRange= scan.nextInt();
+		
+		System.out.println("Enter your end range ");
+		endRange= scan.nextInt();
+		
+		System.out.println("The prime numbers: ");
+		while (startRange < endRange){
+			if(startRange%2==0){
+				System.out.print(startRange + ", ");			
+			}startRange++;			
+		}
+				
+		scan.close();
+	}
+}

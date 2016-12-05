@@ -1,0 +1,41 @@
+package Day4;
+
+import java.util.Scanner;
+
+import javax.swing.JOptionPane;
+
+
+
+public class SimpleInterestAmt {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double principal;
+		double rate;
+		double time;
+		double Amount;
+				
+		Scanner scan= new Scanner(System.in);
+		System.out.println("Enter your principle: ");
+		principal= scan.nextDouble();
+		System.out.println("Enter your rate: ");
+		rate= scan.nextDouble();
+		System.out.println("Enter your time: ");
+		time= scan.nextDouble();
+		
+		
+		double SI= (principal* rate* time)/100;
+		Amount = principal+SI;
+		
+		//It shows message in dialog box
+		JOptionPane.showMessageDialog(null, "Your Simple interest (SI) is " + SI+ "\n" + "Total amount you need to pay "+ Amount);
+		
+		//It shows output in console
+		System.out.println("Your Simple interest (SI) is " + SI+ "\n" + "Total amount you need to pay "+ Amount);
+		
+		scan.close();
+	}
+
+}
+
+

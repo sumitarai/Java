@@ -1,0 +1,24 @@
+package week2;
+
+import java.util.Scanner;
+
+public class StringFunction {
+// use different functions of Strings
+	public static void main(String[] args) {
+		// compare 2 strings
+		
+		String name;
+		String anotherName;
+		
+		Scanner scan =new Scanner(System.in);
+		
+		System.out.println("COMPARE 2 names \nEnter first name: ");
+		name= scan.nextLine();
+		
+		System.out.println("Enter second name: ");
+		anotherName = scan.next();
+		
+
+	}
+
+}

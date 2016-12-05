@@ -1,0 +1,88 @@
+Q1. Ask user to enter three numbers, find the smallest among them.
+
+
+
+Q2. Given you have $100.45, find out in the lowest denomination possible
+
+how many dollars, quaters, dime, nickle and penny the amount has.
+
+
+1$ = 4 quarters
+
+1$ = 10 dimes
+
+1$ = 20 nickles
+
+1$ =100 pennies
+
+
+
+hint - alternate division and mod operator 
+
+
+
+
+Q3. For the following table, based on gender and income of the end user calculate the tax to be paid.
+
+
+gender = male 
+
+income - 0 - 300,000 - no tax
+
+300,000 - 600,000 - 10%
+
+600,000 - 10,000,000 - 30%
+
+> 10,000,000 - 45%
+
+
+
+
+
+gender = female 
+
+income - 0 - 300,000 - no tax
+
+300,000 - 600,000 - 5%
+
+600,000 - 10,000,000 - 15%
+
+> 10,000,000 - 30%
+
+
+
+
+Q4. Find out all the numbers which are even and odd in a given range, range to be provided by the end user.
+
+
+odd numbers in ascending order.
+
+
+even numbers in descending order.
+
+
+
+
+Q5. Write down a program to find the area of the geometrical figure based on the sides provided.
+
+side =1, square
+
+side =2 , rectangle
+
+side =3 , triangle
+
+
+
+Q6. Find factorial of a number given by end user.
+
+n!=n*n-1*n-2... 1
+
+5!= 5*4*3*2*1 = 120
+
+
+
+
+
+
+
+
