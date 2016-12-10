@@ -1,0 +1,42 @@
+Q1. Find out about the Java API- https://docs.oracle.com/javase/7/docs/api/
+
+java.io
+
+java.util
+
+java.sql
+
+java.lang
+
+what does the above API's do?
+
+
+
+
+Q2. Ask user to provide the following values -
+
+Principal
+
+Rate of interest
+
+Time
+
+
+calculate SI and the amount to be paid.
+
+
+SI= (P*R*T)/100;
+
+Amount = principal+SI;
+
+
+
+Q3. Explain the nextInt(), next(), nextDouble(), nextBoolean() methods of the scanner class.
+
+
+
+
+
+
+
+

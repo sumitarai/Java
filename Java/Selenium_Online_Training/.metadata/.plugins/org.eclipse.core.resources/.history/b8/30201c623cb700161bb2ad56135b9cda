@@ -1,0 +1,24 @@
+package Day4;
+
+import java.util.Scanner;
+
+public class TaxCalculation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		int gender = 0;
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter 0 for male or 1 for female");
+		gender = scan.nextInt(); 
+		if (gender == 0){
+			
+			
+			
+		}
+		
+		scan.close();
+	}
+
+}

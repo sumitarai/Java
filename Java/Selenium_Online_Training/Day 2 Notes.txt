@@ -1,0 +1,328 @@
+Selenium Commands
+
+
+Actions - to change the state of the application. .e.g open, click
+
+
+Assertions - validation purpose. validate the action. 
+
+
+Accessors-  is for storage command. storage of the state of the application.
+
+even for variable creation.
+
+
+
+
+
+Assertion Commands - 
+
+verify  - is basically validates whether the scenario passes or fails 
+and it will allow execution of the next step even if the failure occurs. 
+
+
+and assert - validates whether scenario passes or fails and it will not allow
+execution of the next step if the failure occurs.
+
+Test Case - Login Logout
+
+
+a. Open the application.
+
+b. click on the my account link
+
+c. type username
+
+d. type password
+
+e. click on sign in button
+
+f. validate log off link is there on screen - [ major validation . if this fails test case should abort]
+
+g. validate "My Account information" is available on screen [ minor validation. it may fail, test case can still execute]
+
+h. click on log off link
+
+i. click on continue button
+
+j. verify log off link is no longer on screen
+
+
+
+
+point f - assert.
+
+
+point g - verify
+
+
+
+Practice Problem -
+
+
+Q1. If you record registration scenarion, will it playback successfully?
+
+
+Q2. Can you playback the scenario for change password?
+
+
+
+
+Locators in Selenium -
+
+
+Imp - http://docs.seleniumhq.org/docs/02_selenium_ide.jsp#locating-elements
+
+
+
+- By name
+
+- By ID
+
+- By linkText
+
+- By CSS
+
+- By Tagname
+
+- By XPath
+
+- By DOM
+
+
+
+
+WebTechnlogies- HTML, XML, XPath, CSS and DOM
+
+HTML- http://www.w3schools.com/html/html_elements.asp
+
+
+hyper text markup language -
+
+a text referring to another text
+
+HTML Elements forms the html page -
+
+anchor, button, image, checkbox, radio, dropdown, span, div, iframe
+
+<input type ='text' name ='email_address'>Email Address:</input>
+<input type ='text' name ='password'>Password</input>
+<button id ='tdb5'>Sign in</button>
+
+
+
+generic syntax-
+
+<html tag property1= value1 property2 = value 2 > text to be displayed </html tag closes>
+
+
+**Wisdom - if the element has an id or name property , then we always use that to identify the object
+and it is the fastest way to identify the object.
+
+
+
+XML- http://www.w3schools.com/xml/
+
+
+Extended Markup Language . to transfer data from one place to another. 
+
+<movies>
+	<movie>
+		<name>'Rock on2'></name>
+		<director> Farhan akhtar </director>
+		<yor>2016</yor>
+	</movie>
+	<movie>
+		<name>'Kungfu Panda 3'></name>
+		<director> Xyz </director>
+		<yor>2016</yor>
+	</movie>	
+	<movie>
+		<name>'Inside Out'></name>
+		<director> disney </director>
+		<yor>2016</yor>
+	</movie>
+	<movie>
+		<name>'Fast and Furious'></name>
+		<director> Jackie Chan </director>
+		<yor>2009</yor>
+	</movie>
+</movies>
+
+
+
+Q- Can i see a XML document as an HTML Document?
+
+XPath - http://www.w3schools.com/xml/xpath_intro.asp
+
+the path traversed to reach a XML node.
+
+Absolute Path- from root
+
+Relative - with respect to a node.
+
+
+e.g home address
+
+absolute path - /movies/movie/name['text'="Inside Out"]
+reltive path - //name['text'="Inside Out"]
+
+
+<input type ='text' name ='email_address'>Email Address:</input>
+<input type ='text' name ='password'>Password</input>
+<button id ='tdb5'>Sign in</button>
+
+
+//input[@name='email_address']
+
+//button[@id='tdb5']
+
+
+XPath Axes- http://www.w3schools.com/xml/xpath_axes.asp
+
+
+CSS- http://www.w3schools.com/css/
+
+height, color, appearance properties
+http://www.w3schools.com/css/css_syntax.asp
+
+cascading style sheets
+
+
+DOM- http://www.w3schools.com/jsref/dom_obj_document.asp
+
+look at the html document as if it is a tree like structure where
+
+there is a hierarchial relationship between objects.
+
+
+<html>
+	<body>
+		<form id='form1'>
+			<input type ='text' name =1></input>
+
+			<input type ='text' name =2></input>
+
+			<input type ='text' name =3></input>
+
+			<input type ='text' name =4></input>
+
+		</form>
+	</body>
+</html>
+
+
+document.form1.2
+
+document.form1.input[3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

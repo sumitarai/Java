@@ -1,0 +1,30 @@
+package week2;
+
+import java.util.Scanner;
+
+public class FactorialNum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int number;
+		//int count;
+		int fact = 1;
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter your number to calculate its factorial: ");
+		number = scan.nextInt();
+		
+		if (number < 0){
+			System.out.println("Number shouldn't be negative.");
+		}
+		else{
+			for(int i = 1; i<=number; i++){
+				fact= fact*i;
+				
+			}System.out.println("The factorial of " + number + " is = " + fact);
+		}
+		
+	scan.close();
+	}
+
+}

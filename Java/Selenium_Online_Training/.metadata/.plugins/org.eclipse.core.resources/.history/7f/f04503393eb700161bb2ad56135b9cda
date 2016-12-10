@@ -1,0 +1,43 @@
+package Day4;
+
+import java.util.Scanner;
+
+public class TaxCalculation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		int gender;
+		double income = 0;
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter 0 for male or 1 for female");
+		gender = scan.nextInt();
+		
+		if (gender == 0){
+			if(income>=0 && income<=300000)
+			{ System.out.println("You don't pay tax");}
+			else if (income >=300001 && income <= 600000)
+			{ System.out.println("You pay 10% tax");}
+			else if (income >=600001 && income <= 10000000)
+			{ System.out.println("You pay 30% tax");}
+			else 
+			{ System.out.println("You pay 45% tax");}
+			
+		}else if(gender == 1){
+			if(income>=0 && income<=300000)
+			{ System.out.println("You don't pay tax");}
+			else if (income >=300001 && income <= 600000)
+			{ System.out.println("You pay 5% tax");}
+			else if (income >=600001 && income <= 10000000)
+			{ System.out.println("You pay 15% tax");}
+			else 
+			{ System.out.println("You pay 30% tax");}
+		}else{
+			System.out.println("Please enter 0 or 1");
+		}
+		
+		scan.close();
+	}
+
+}
