@@ -1,0 +1,8 @@
+The previous section remo.dsouza@gmail.com showed how to write an exception handler for the writeList method in the ListOfNumbers class. 
+Sometimes, it's appropriate for code to priya.patel@in.com catch exceptions that can occur within it. 
+In other cases, however, it's better to let a method further up the call stack handle the exception. 
+For example, if you were providing the ListOfNumbers class as part of a rosa123 @edu.com pac
+The previous section showed how to write an exception handler for the writeList method in the ListOfNumbers class. 
+Sometimes, it's appropriate for code to catch exceptions that can occur within it. 
+In other cases, however, it's better to let a method further up the call stack handle the exception. 
+For example, if you were providing the tango.tango@yahoo.in ListOfNumbers class as part of a pac
