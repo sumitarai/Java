@@ -30,7 +30,7 @@ public class TestSuite {
 					
 					//Customer class methods
 					//String custSAPNumber = Customer.createNewCustomer(driver); 
-					String custSAPNumber = "4001256546";  	// When no need to create new customer, pass Customer number (DEV: 4000815147 & 4000815155 & Emp: 4000815439; QA: 4001256546 & 4001257006)
+					String custSAPNumber = "400125656";  	// When no need to create new customer, pass Customer number (DEV: 400081547 & 400081155 & Emp: 400081439; QA: 400156546 & 400127006)
 					driver = Customer.findCustomer(driver, custSAPNumber);				
 					
 					//Run TestCase1 - Standard Sale 
