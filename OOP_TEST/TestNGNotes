@@ -1,0 +1,22 @@
+TestNG is a new generation Java unit test framework.
+TestNG is also TDD (Test Driven development)
+
+Purpose is to design test cases in a systematic way and generates reports such as html 
+Anotation and sequence of TC can be defined
+Priorities
+Dependencies
+Grouping
+Data Provider test
+
+
+How to Install in Eclipse
+Google: testNG plugin for Eclipse: http:// beust.com/eclipse/
+
+https://www.youtube.com/watch?v=0Gew2XOuum8
+
+
+
+
+
+Different Assert Statements
+Assert.assertTrue() & Assert.assertFalse() & Assert.assertEquals()

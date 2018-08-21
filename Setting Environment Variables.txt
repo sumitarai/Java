@@ -1,0 +1,25 @@
+Manual Way:
+Control Panel >> System >> Advanced system settings >> Advanced
+https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html
+
+System Variables: Configure JAVA_HOME:
+New (if Java_Home is not there) or Edit to point to where the JDK software is located
+Variable name: JAVA_HOME
+Variable value: C:\Program Files\JDK1.8.151 
+
+System Variables:
+Path >> Edit or double click
+Variable value: at the end after semicolon add C:\Program Files\JDK1.8.151\bin
+               semicolon add  C:\Program Files\Java\jre1.8.0_151\bin
+		or
+Variable value: at the end after semicolon add %Java_Home%\bin
+
+
+
+
+Using Batch script:
+cmd prompt to set Java Home in your OS: 
+setx -m JAVA_HOME C:\Program Files\jdk1.8.151 
+
+cmd prompt to set Java Home in your OS: 
+setx -m PATH "%PATH%;C:\Program Files\jre1.8.151\bin

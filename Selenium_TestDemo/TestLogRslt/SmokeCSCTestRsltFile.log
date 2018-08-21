@@ -1,0 +1,120 @@
+2018-04-17 12:12:23,704 - Customer -INFO - Customer Number: 4001255951
+2018-04-17 12:14:49,397 - TestCase1 -INFO - Order: Customer Sales - 1107437
+2018-04-17 13:00:00,617 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-17 13:00:44,292 - Customer -INFO - Customer Number: 4001255953
+2018-04-17 13:01:22,138 - TestCase1 -INFO - Batch: 16J0LK1
+2018-04-17 13:03:15,963 - TestCase1 -INFO - Customer Sales - 1107447
+2018-04-17 13:03:55,292 - TestCase2 -INFO - Batch: 16E07YW
+2018-04-17 13:14:06,168 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-17 13:14:49,803 - Customer -INFO - Customer Number: 4001255954
+2018-04-17 13:15:25,955 - TestCase1 -INFO - Batch: 16E07YW
+2018-04-17 13:17:19,771 - TestCase1 -INFO - Customer Sales - 1107453
+2018-04-17 13:17:58,291 - TestCase2 -INFO - Batch: 16I0MB3
+2018-04-17 13:19:06,308 - TestCase2 -INFO - Total Price: 0.00
+2018-04-17 13:19:44,491 - TestCase2 -INFO - Customer Sales - 1107455
+2018-04-17 15:18:43,683 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-17 15:19:27,215 - Customer -INFO - Customer Number: 4001255956
+2018-04-17 15:20:03,514 - TestCase1 -INFO - Batch: 16I0MB3
+2018-04-17 15:27:22,698 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-17 15:28:06,216 - Customer -INFO - Customer Number: 4001255957
+2018-04-17 15:28:42,669 - TestCase1 -INFO - Batch: 16L0RRP
+2018-04-17 15:29:28,488 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-04-17 15:29:57,212 - TestCase1 -INFO - Total Price: $80.44
+2018-04-17 15:30:21,565 - TestCase1 -INFO - Customer Sales - 1107467
+2018-04-18 09:07:06,370 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-18 09:07:51,035 - Customer -INFO - Customer Number: 4001255962
+2018-04-18 09:19:23,574 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-18 09:20:07,395 - Customer -INFO - Customer Number: 4001255963
+2018-04-18 09:20:41,536 - TestCase1 -INFO - Batch: 16G0B1M
+2018-04-18 09:36:14,022 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-18 09:37:01,056 - Customer -INFO - Customer Number: 4001255964
+2018-04-18 09:37:35,470 - TestCase1 -INFO - Batch: 16G0B1M
+2018-04-18 09:37:47,728 - TestCase1 -INFO - Batch: 16G0B1M
+2018-04-18 09:47:35,340 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-18 09:48:19,308 - Customer -INFO - Customer Number: 4001255965
+2018-04-18 09:54:44,168 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-18 09:55:29,417 - Customer -INFO - Customer Number: 4001255966
+2018-04-18 09:56:05,479 - TestCase1 -INFO - Batch: 16I0N5R
+2018-04-18 09:56:27,720 - TestCase1 -INFO - Batch: 16I0N5R
+2018-04-18 09:56:51,323 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-04-18 09:57:19,991 - TestCase1 -INFO - Total Price: $80.44
+2018-04-25 14:20:33,762 - Store -INFO - Store: 0002 - Shane Co. Englewood
+2018-04-25 14:27:48,695 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 14:31:41,289 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 14:40:45,767 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 14:44:38,712 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 14:53:18,290 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 15:00:37,009 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 15:06:45,180 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 15:25:27,498 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 15:51:18,084 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 15:52:01,945 - Customer -INFO - Customer Number: 4001256082
+2018-05-06 22:10:06,352 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 22:10:50,810 - Customer -INFO - Customer Number: 4000815069
+2018-05-06 22:18:38,838 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 22:21:09,146 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 22:21:53,651 - Customer -INFO - Customer Number: 4000815070
+2018-05-06 22:26:28,777 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 22:27:13,259 - Customer -INFO - Customer Number: 4000815071
+2018-05-06 22:28:14,610 - TestCase2 -INFO - Batch: null
+2018-05-06 22:33:52,174 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 22:34:36,361 - Customer -INFO - Customer Number: 4000815072
+2018-05-06 22:35:14,894 - TestCase2 -INFO - Batch: null
+2018-05-06 22:45:50,914 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 22:46:35,411 - Customer -INFO - Customer Number: 4000815073
+2018-05-06 22:47:14,228 - TestCase2 -INFO - Batch: 16L0C61
+2018-05-06 22:52:08,459 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 22:52:53,564 - Customer -INFO - Customer Number: 4000815074
+2018-05-06 22:53:32,757 - TestCase2 -INFO - Batch: 15K0UR5
+2018-05-06 23:00:05,739 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 23:00:50,273 - Customer -INFO - Customer Number: 4000815075
+2018-05-06 23:01:29,126 - TestCase2 -INFO - Batch: 15K0UR5
+2018-05-06 23:05:55,632 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-06 23:06:39,874 - Customer -INFO - Customer Number: 4000815076
+2018-05-06 23:07:18,965 - TestCase2 -INFO - Batch: 15K0UMP
+2018-05-07 11:49:50,276 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-07 11:50:34,674 - Customer -INFO - Customer Number: 4000815077
+2018-05-07 11:51:13,427 - TestCase2 -INFO - Batch: 16B05B5
+2018-05-07 11:54:32,718 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-07 11:56:34,806 - Customer -INFO - Customer Number: 4000815078
+2018-05-07 11:58:57,168 - TestCase2 -INFO - Batch: 16B05B5
+2018-05-07 12:03:09,616 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-07 12:05:26,707 - Customer -INFO - Customer Number: 4000815079
+2018-05-07 12:07:49,374 - TestCase2 -INFO - Batch: 16B05B5
+2018-05-07 12:08:21,503 - TestCase2 -INFO - Batch: 16B05ER
+2018-05-07 12:08:37,414 - TestCase2 -INFO - Batch: 16B05ET
+2018-05-07 12:16:32,513 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-07 12:17:06,534 - Customer -INFO - Customer Number: 4000815080
+2018-05-07 12:17:43,136 - TestCase2 -INFO - Batch: 16B05B5
+2018-05-07 12:17:43,275 - TestCase2 -INFO - Batch: 16B05ER
+2018-05-07 12:20:29,517 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-07 12:21:03,507 - Customer -INFO - Customer Number: 4000815081
+2018-05-07 12:21:41,803 - TestCase2 -INFO - Batch: 16B05B5
+2018-05-07 12:21:45,975 - TestCase2 -INFO - Batch: 16B05ER
+2018-05-07 12:21:50,152 - TestCase2 -INFO - Batch: 16B05ET
+2018-05-07 12:22:23,922 - TestCase2 -INFO - Sale Type: Hold
+2018-05-07 12:22:40,303 - TestCase2 -INFO - Total Price: 165.60
+2018-05-07 13:16:31,641 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-07 13:17:05,934 - Customer -INFO - Customer Number: 4000815082
+2018-05-07 13:17:44,642 - TestCase3 -INFO - Batch: 16B05B5
+2018-05-07 13:17:48,847 - TestCase3 -INFO - Batch: 16B05ER
+2018-05-07 13:17:53,058 - TestCase3 -INFO - Batch: 16B05ET
+2018-05-07 13:18:26,988 - TestCase3 -INFO - Sale Type: Hold
+2018-05-07 13:18:55,827 - TestCase3 -INFO - Total Price: $248.40
+2018-05-09 11:28:23,385 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 11:37:59,184 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 11:45:51,694 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 11:53:32,010 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 11:56:24,769 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 11:57:16,431 - TestCase3 -INFO - Batch: 16B05B5
+2018-05-09 11:59:35,852 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 12:00:27,391 - TestCase3 -INFO - Batch: 16B05EZ
+2018-05-09 12:00:31,581 - TestCase3 -INFO - Batch: 16B05C2
+2018-05-09 12:01:05,458 - TestCase3 -INFO - Sale Type: Standard Sale
+2018-05-09 12:01:34,262 - TestCase3 -INFO - Total Price: $165.60
+2018-05-09 12:08:25,438 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 12:09:17,286 - TestCase3 -INFO - Batch: 16B05CG
+2018-05-09 12:09:21,463 - TestCase3 -INFO - Batch: 16B05CM
+2018-05-09 12:09:55,351 - TestCase3 -INFO - Sale Type: Standard Sale
+2018-05-09 12:10:24,183 - TestCase3 -INFO - Total Price: $165.60
+2018-05-09 12:11:03,623 - TestCase3 -INFO - Customer Sales - 1005838

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke TestSuite" duration-ms="5404" started-at="2018-07-18T17:20:37Z" finished-at="2018-07-18T17:20:43Z">
+    <groups>
+    </groups>
+    <test name="CSC QA Test" duration-ms="5404" started-at="2018-07-18T17:20:37Z" finished-at="2018-07-18T17:20:43Z">
+      <class name="firsttestngpackage.TestNGDemo">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="beforeSuite" is-config="true" duration-ms="13" started-at="2018-07-18T17:20:37Z" finished-at="2018-07-18T17:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="enterURL" is-config="true" duration-ms="1" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="addTitleTest()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="addTitleTest" duration-ms="3" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTitleTest -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="logOut" is-config="true" duration-ms="1" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="arrayTitleTest()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="arrayTitleTest" duration-ms="1" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayTitleTest -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="logOut" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="stringTitleTest()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="stringTitleTest" duration-ms="1" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stringTitleTest -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="logOut" is-config="true" duration-ms="1" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="subTitleTest()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="subTitleTest" duration-ms="1" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTitleTest -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="logOut" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:firsttestngpackage.TestNGDemo@5792a0]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- firsttestngpackage.TestNGDemo -->
+      <class name="firsttestngpackage.SmokeTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:firsttestngpackage.SmokeTest@653222]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-07-18T17:20:37Z" finished-at="2018-07-18T17:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:firsttestngpackage.SmokeTest@653222]" name="testCase1" duration-ms="5025" started-at="2018-07-18T17:20:37Z" finished-at="2018-07-18T17:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:firsttestngpackage.SmokeTest@653222]" name="testCase2" duration-ms="334" started-at="2018-07-18T17:20:42Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:firsttestngpackage.SmokeTest@653222]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-07-18T17:20:43Z" finished-at="2018-07-18T17:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- firsttestngpackage.SmokeTest -->
+    </test> <!-- CSC QA Test -->
+  </suite> <!-- Smoke TestSuite -->
+</testng-results>

@@ -1,0 +1,914 @@
+2018-04-18 11:15:14,308 [main] INFO Customer - Customer: 4001255968
+2018-04-18 11:15:51,308 [main] INFO TestCase1 - Batch: 17A030K
+
+2018-04-19 11:54:53,659 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 11:55:08,310 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 11:55:58,350 - Customer -INFO - Customer: 4001255985
+2018-04-19 11:56:35,332 - TestCase1 -INFO - Batch from spreadsheet: 16I0K8U
+2018-04-19 11:57:02,571 - TestCase1 -INFO - Batch: 16I0K8U
+2018-04-19 11:57:52,776 - TestCase1 -INFO - Total Price: $77.28
+2018-04-19 11:58:32,167 - TestCase1 -INFO - Customer Sales - 1107575
+
+2018-04-19 12:10:58,137 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 12:11:12,794 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 12:11:56,461 - Customer -INFO - Customer: 4001255986
+2018-04-19 12:12:33,437 - TestCase1 -INFO - Batch from spreadsheet: 16I0K87
+2018-04-19 12:13:00,678 - TestCase1 -INFO - Batch: 16I0K87
+2018-04-19 12:13:50,870 - TestCase1 -INFO - Total Price: $77.28
+2018-04-19 12:14:30,277 - TestCase1 -INFO - Customer Sales - 1107577
+2018-04-19 12:15:09,120 - TestCase2 -INFO - Batch: 16H024S
+2018-04-19 12:16:00,903 - TestCase2 -INFO - Sale Type: Hold
+2018-04-19 12:16:17,282 - TestCase2 -INFO - Total Price: 0.00
+2018-04-19 12:16:55,476 - TestCase2 -INFO - Customer Sales - 1107578
+2018-04-19 13:52:17,419 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 13:52:27,779 - Customer -INFO - You are logged in as : RAIS
+2018-04-19 13:52:32,063 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 13:53:15,721 - Customer -INFO - Customer: 4001255987
+2018-04-19 13:54:13,145 - TestCase1 -INFO - Batch: 17A09M2
+2018-04-19 13:54:13,185 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-04-19 13:54:13,187 - TestCase1 -INFO - TestCase1.mrktPage - Error encountered
+2018-04-19 13:54:13,189 - TestCase1 -INFO - TestCase1.itmProcessPage - Error encountered
+2018-04-19 13:54:13,191 - TestCase1 -INFO - TestCase1.ordSummaryPage - Error encountered
+2018-04-19 14:08:16,584 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 14:08:26,921 - Customer -INFO - Login Status : RAIS
+2018-04-19 14:08:31,202 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 14:09:14,846 - Customer -INFO - Customer: 4001255989
+2018-04-19 14:10:12,108 - TestCase1 -INFO - Batch: 17A09M2
+2018-04-19 14:10:12,145 - TestCase1 -INFO - Price: $65.00
+2018-04-19 14:10:33,603 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-04-19 14:10:40,775 - TestCase1 -INFO - SubTotal: $65.00
+2018-04-19 14:10:40,813 - TestCase1 -INFO - Tax: $6.76
+2018-04-19 14:11:02,250 - TestCase1 -INFO - Total amount :$71.76
+2018-04-19 14:11:02,290 - TestCase1 -INFO - Paid : $71.76
+2018-04-19 14:11:41,795 - TestCase1 -INFO - Customer Sales - 1107589
+2018-04-19 14:12:39,253 - TestCase2 -INFO - Batch: 16L0LEH
+2018-04-19 14:12:39,288 - TestCase1 -INFO - TestCase1.mrktPage - Error encountered
+2018-04-19 14:12:39,290 - TestCase1 -INFO - TestCase1.ordSummaryPage - Error encountered
+2018-04-19 14:14:41,400 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 14:14:51,746 - Customer -INFO - Login Status : RAIS
+2018-04-19 14:14:56,011 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 14:15:39,910 - Customer -INFO - Customer: 4001255990
+2018-04-19 14:16:27,309 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-04-19 14:16:27,311 - TestCase1 -INFO - TestCase1.mrktPage - Error encountered
+2018-04-19 14:16:27,312 - TestCase1 -INFO - TestCase1.itmProcessPage - Error encountered
+2018-04-19 14:16:27,314 - TestCase1 -INFO - TestCase1.ordSummaryPage - Error encountered
+2018-04-19 16:25:47,475 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 16:25:58,174 - Customer -INFO - Login Status : RAIS
+2018-04-19 16:26:04,167 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 16:26:49,256 - Customer -INFO - Customer: 4001255994
+2018-04-19 16:27:39,884 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-04-19 16:27:39,886 - TestCase1 -INFO - TestCase1.mrktPage - Error encountered
+2018-04-19 16:27:39,887 - TestCase1 -INFO - TestCase1.itmProcessPage - Error encountered
+2018-04-19 16:27:39,889 - TestCase1 -INFO - TestCase1.ordSummaryPage - Error encountered
+2018-04-19 16:32:54,238 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 16:33:04,607 - Customer -INFO - Login Status : RAIS
+2018-04-19 16:33:08,876 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 16:33:52,554 - Customer -INFO - Customer: 4001255995
+2018-04-19 16:34:49,964 - TestCase1 -INFO - Batch: 16L0LEJ
+2018-04-19 16:34:50,001 - TestCase1 -INFO - Price: $50.00
+2018-04-19 16:35:11,498 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-04-19 16:35:18,667 - TestCase1 -INFO - SubTotal: $50.00
+2018-04-19 16:35:18,703 - TestCase1 -INFO - Tax: $5.20
+2018-04-19 16:35:40,148 - TestCase1 -INFO - Total amount :$55.20
+2018-04-19 16:35:40,187 - TestCase1 -INFO - Paid : $55.20
+2018-04-19 16:52:31,588 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 16:52:41,954 - Customer -INFO - Login Status : RAIS
+2018-04-19 16:52:46,131 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 16:53:30,560 - Customer -INFO - Customer: 4001255996
+2018-04-19 16:54:18,240 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-04-19 16:54:18,242 - TestCase1 -INFO - TestCase1.mrktPage - Error encountered
+2018-04-19 16:54:18,243 - TestCase1 -INFO - TestCase1.itmProcessPage - Error encountered
+2018-04-19 16:54:18,245 - TestCase1 -INFO - TestCase1.ordSummaryPage - Error encountered
+2018-04-19 17:09:08,036 - Customer -INFO - CSC Application lauched successfully!
+2018-04-19 17:09:18,407 - Customer -INFO - Login Status : RAIS
+2018-04-19 17:09:22,677 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-19 17:10:07,364 - Customer -INFO - Customer: 4001255997
+2018-04-19 17:11:04,599 - TestCase1 -INFO - Batch: 16J0ZN4
+2018-04-19 17:11:04,634 - TestCase1 -INFO - Price: $50.00
+2018-04-19 17:11:26,029 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-04-19 17:11:33,215 - TestCase1 -INFO - SubTotal: $50.00
+2018-04-19 17:11:33,250 - TestCase1 -INFO - Tax: $5.20
+2018-04-19 17:11:54,690 - TestCase1 -INFO - Total amount :$55.20
+2018-04-19 17:11:54,730 - TestCase1 -INFO - Paid : $55.20
+2018-04-19 17:12:34,253 - TestCase1 -INFO - Customer Sales - 1107618
+2018-04-19 17:13:31,415 - TestCase2 -INFO - Batch: 16K0FPG
+2018-04-19 17:13:31,451 - TestCase2 -INFO - Price: $60.00
+2018-04-19 17:13:52,946 - TestCase2 -INFO - Sale Type: Hold
+2018-04-19 17:14:00,114 - TestCase1 -INFO - SubTotal: $60.00
+2018-04-19 17:14:00,149 - TestCase1 -INFO - Tax: $6.24
+2018-04-19 17:14:09,321 - TestCase2 -INFO - Total amount :$66.24
+2018-04-20 10:04:29,462 - Customer -INFO - CSC Application lauched successfully!
+2018-04-20 10:04:39,815 - Customer -INFO - Login Status : RAIS
+2018-04-20 10:04:44,105 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-20 10:05:45,469 - Customer -INFO - Customer.findCustomer - Error encountered
+2018-04-20 10:10:27,594 - Customer -INFO - CSC Application lauched successfully!
+2018-04-20 10:10:37,946 - Customer -INFO - Login Status : RAIS
+2018-04-20 10:10:42,223 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-20 10:11:25,722 - Customer -INFO - Customer: 4001256000
+2018-04-20 10:12:22,774 - TestCase1 -INFO - Batch: 16K0GK3
+2018-04-20 10:12:22,814 - TestCase1 -INFO - Price: $60.00
+2018-04-20 10:12:44,336 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-04-20 10:12:51,527 - TestCase1 -INFO - SubTotal: $60.00
+2018-04-20 10:12:51,564 - TestCase1 -INFO - Tax: $6.24
+2018-04-20 10:13:12,999 - TestCase1 -INFO - Total amount :$66.24
+2018-04-20 10:13:13,037 - TestCase1 -INFO - Paid : $66.24
+2018-04-20 10:13:52,533 - TestCase1 -INFO - Customer Sales - 1107641
+2018-04-20 10:14:50,265 - TestCase2 -INFO - Batch: 16H0Q50
+2018-04-20 10:14:50,301 - TestCase2 -INFO - Price: $60.00
+2018-04-20 10:15:11,789 - TestCase2 -INFO - Sale Type: Hold
+2018-04-20 10:15:18,961 - TestCase1 -INFO - SubTotal: $60.00
+2018-04-20 10:15:18,995 - TestCase1 -INFO - Tax: $6.24
+2018-04-20 10:15:28,201 - TestCase2 -INFO - Total amount :$66.24
+2018-04-20 10:15:28,238 - TestCase2 -INFO - Paid : $0.00
+2018-04-20 10:16:06,442 - TestCase2 -INFO - Customer Sales - 1107642
+2018-04-25 09:55:47,386 - Customer -INFO - CSC Application lauched successfully!
+2018-04-25 09:55:57,759 - Customer -INFO - Login Status : RAIS
+2018-04-25 09:56:02,046 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-04-25 09:56:47,939 - Customer -INFO - Customer: 4001256075
+2018-04-25 09:57:45,034 - TestCase1 -INFO - Batch: 16K10R9
+2018-04-25 09:57:45,072 - TestCase1 -INFO - Price: $60.00
+2018-04-25 09:58:06,574 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-04-25 09:58:13,753 - TestCase1 -INFO - SubTotal: $60.00
+2018-04-25 09:58:13,788 - TestCase1 -INFO - Tax: $6.24
+2018-04-25 09:58:35,244 - TestCase1 -INFO - Total amount :$66.24
+2018-04-25 09:58:35,283 - TestCase1 -INFO - Due Paid : $66.24
+2018-04-25 09:59:14,807 - TestCase1 -INFO - Customer Sales - 1107764
+2018-04-25 10:00:11,854 - TestCase2 -INFO - Batch: 16K10RD
+2018-04-25 10:00:11,896 - TestCase2 -INFO - Price: $60.00
+2018-04-25 10:00:33,399 - TestCase2 -INFO - Sale Type: Hold
+2018-04-25 10:00:40,613 - TestCase1 -INFO - SubTotal: $60.00
+2018-04-25 10:00:40,648 - TestCase1 -INFO - Tax: $6.24
+2018-04-25 10:00:49,847 - TestCase2 -INFO - Total amount :$66.24
+2018-04-25 10:00:49,882 - TestCase2 -INFO - Due Paid : $0.00
+2018-04-25 10:01:28,071 - TestCase2 -INFO - Customer Sales - 1107765
+2018-05-09 21:18:28,100 - Customer -INFO - CSC Application lauched successfully!
+2018-05-09 21:18:38,506 - Customer -INFO - Login Status : RAIS
+2018-05-09 21:18:42,766 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 21:25:43,017 - Customer -INFO - CSC Application lauched successfully!
+2018-05-09 21:25:53,420 - Customer -INFO - Login Status : RAIS
+2018-05-09 21:25:57,721 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 21:33:27,392 - Customer -INFO - CSC Application lauched successfully!
+2018-05-09 21:33:37,790 - Customer -INFO - Login Status : RAIS
+2018-05-09 21:33:42,100 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 21:34:31,228 - TestCase1 -INFO - Batch from spreasheet: Description
+2018-05-09 21:34:43,403 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-05-09 21:34:43,406 - TestCase1 -INFO - TestCase1.mrktPage - Error encountered
+2018-05-09 21:38:04,834 - Customer -INFO - CSC Application lauched successfully!
+2018-05-09 21:38:15,222 - Customer -INFO - Login Status : RAIS
+2018-05-09 21:38:19,454 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-09 21:39:07,981 - TestCase1 -INFO - Batch from spreasheet: 16L12DG
+2018-05-09 21:39:30,212 - TestCase1 -INFO - Batch: 16L12DG
+2018-05-09 21:39:30,256 - TestCase1 -INFO - Price: $195.00
+2018-05-10 14:06:20,972 - Customer -INFO - CSC Application lauched successfully!
+2018-05-10 14:06:31,380 - Customer -INFO - Login Status : RAIS
+2018-05-10 14:06:35,714 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-10 14:07:24,865 - TestCase1 -INFO - Batch from spreasheet: 16L12DG
+2018-05-10 14:07:47,129 - TestCase1 -INFO - Batch: 16L12DG
+2018-05-10 14:07:47,174 - TestCase1 -INFO - Price: $195.00
+2018-05-10 14:08:08,963 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-05-10 14:08:16,155 - TestCase1 -INFO - SubTotal: $195.00
+2018-05-10 14:08:16,202 - TestCase1 -INFO - Tax: $20.28
+2018-05-10 14:08:37,678 - TestCase1 -INFO - Total amount :$215.28
+2018-05-10 14:08:37,723 - TestCase1 -INFO - Due Paid : $215.28
+2018-05-10 14:09:17,257 - TestCase1 -INFO - Customer Sales - 1108195
+2018-05-10 14:51:52,487 - Customer -INFO - CSC Application lauched successfully!
+2018-05-10 14:52:03,148 - Customer -INFO - Login Status : RAIS
+2018-05-10 14:52:07,373 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-10 14:56:54,734 - Customer -INFO - CSC Application lauched successfully!
+2018-05-10 14:57:05,143 - Customer -INFO - Login Status : RAIS
+2018-05-10 14:57:09,461 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-10 14:57:58,919 - TestCase1 -INFO - Batch from spreasheet: 17A0MSD
+2018-05-10 14:58:21,174 - TestCase1 -INFO - Batch: 17A0MSD
+2018-05-10 14:58:21,223 - TestCase1 -INFO - Price: $195.00
+2018-05-10 14:58:42,996 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-05-10 14:58:50,213 - TestCase1 -INFO - SubTotal: $195.00
+2018-05-10 14:58:50,259 - TestCase1 -INFO - Tax: $20.28
+2018-05-10 14:59:11,772 - TestCase1 -INFO - Total amount :$215.28
+2018-05-10 14:59:11,820 - TestCase1 -INFO - Due Paid : $215.28
+2018-05-10 14:59:51,382 - TestCase1 -INFO - Customer Sales - 1108200
+2018-05-10 15:08:14,720 - Customer -INFO - CSC Application lauched successfully!
+2018-05-10 15:08:25,126 - Customer -INFO - Login Status : RAIS
+2018-05-10 15:08:29,443 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-10 15:09:17,802 - Customer -INFO - Customer: 4001256254
+2018-05-10 15:09:54,181 - TestCase1 -INFO - Batch from spreasheet: 17A0MSD
+2018-05-10 15:10:16,454 - TestCase1 -INFO - Batch: 17A0MSD
+2018-05-10 15:10:16,501 - TestCase1 -INFO - Price: $195.00
+2018-05-10 15:10:38,233 - TestCase1 -INFO - Sale Type: Standard Sale
+2018-05-10 15:10:45,425 - TestCase1 -INFO - SubTotal: $195.00
+2018-05-10 15:10:45,469 - TestCase1 -INFO - Tax: $20.28
+2018-05-10 15:11:06,957 - TestCase1 -INFO - Total amount :$215.28
+2018-05-10 15:11:07,003 - TestCase1 -INFO - Due Paid : $215.28
+2018-05-10 15:11:46,570 - TestCase1 -INFO - Customer Sales - 1108201
+2018-05-10 15:12:22,182 - TestCase2 -INFO - Batch from spreasheet: 16L12DN
+2018-05-10 15:12:44,440 - TestCase2 -INFO - Batch: 16L12DN
+2018-05-10 15:12:44,482 - TestCase2 -INFO - Price: $195.00
+2018-05-10 15:13:06,158 - TestCase2 -INFO - Sale Type: Hold
+2018-05-10 15:13:13,360 - TestCase1 -INFO - SubTotal: $195.00
+2018-05-10 15:13:13,403 - TestCase1 -INFO - Tax: $20.28
+2018-05-10 15:13:22,602 - TestCase2 -INFO - Total amount :$215.28
+2018-05-10 15:13:22,647 - TestCase2 -INFO - Due Paid : $0.00
+2018-05-10 15:14:05,844 - TestCase2 -INFO - Customer Sales - 1108202
+2018-05-10 15:14:44,017 - TestCase3 -INFO - Batch from spreadsheet: 16L0CW9
+2018-05-10 15:14:48,224 - TestCase3 -INFO - Batch from spreadsheet: 16L0AGF
+2018-05-10 15:15:10,398 - TestCase3 -INFO - Batch: 16L0CW9
+2018-05-10 15:15:10,441 - TestCase3 -INFO - Price: $100.00
+2018-05-10 15:15:32,097 - TestCase3 -INFO - Sale Type: Standard Sale
+2018-05-10 15:15:39,279 - TestCase1 -INFO - SubTotal: $200.00
+2018-05-10 15:15:39,324 - TestCase1 -INFO - Tax: $20.80
+2018-05-10 15:16:00,931 - TestCase3 -INFO - Total Price: $220.80
+2018-05-10 15:16:40,346 - TestCase3 -INFO - Customer Sales - 1108203
+2018-05-14 14:31:04,780 - Customer -INFO - CSC Application lauched successfully!
+2018-05-14 14:31:15,142 - Customer -INFO - Login Status : RAIS
+2018-05-14 14:31:19,421 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-14 15:08:53,545 - Customer -INFO - CSC Application lauched successfully!
+2018-05-14 15:09:03,947 - Customer -INFO - Login Status : RAIS
+2018-05-14 15:09:08,241 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-15 09:56:47,631 - Customer -INFO - CSC Application lauched successfully!
+2018-05-15 09:56:59,027 - Customer -INFO - Login Status : RAIS
+2018-05-15 09:57:05,691 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-15 10:25:12,557 - Customer -INFO - CSC Application lauched successfully!
+2018-05-15 10:25:22,982 - Customer -INFO - Login Status : RAIS
+2018-05-15 10:25:27,211 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 10:29:13,276 - Customer -INFO - CSC Application lauched successfully!
+2018-05-15 10:29:23,688 - Customer -INFO - Login Status : RAIS
+2018-05-15 10:29:27,928 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 10:34:18,288 - Customer -INFO - CSC URL: Shane Co. Customer Service Center
+2018-05-15 10:34:28,709 - Customer -INFO - Login Status : RAIS
+2018-05-15 10:34:33,045 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 10:35:16,458 - TestCase1 -INFO - Batch from spreasheet: 16H05R1
+2018-05-15 10:35:38,720 - TestCase1 -INFO - Batch: 16H05R1
+2018-05-15 10:35:38,764 - TestCase1 -INFO - Price: $150.00
+2018-05-15 10:35:44,028 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 10:35:44,031 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 10:35:44,033 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 10:44:17,049 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (e070fbd820f1ee5e8b756e1f0e92a3db)
+2018-05-15 10:44:27,470 - Customer -INFO - Login Status : RAIS
+2018-05-15 10:44:31,686 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 10:45:15,869 - TestCase1 -INFO - Batch from spreasheet: 16H05R1
+2018-05-15 10:45:38,152 - TestCase1 -INFO - Batch: 16H05R1
+2018-05-15 10:45:38,198 - TestCase1 -INFO - Price: $150.00
+2018-05-15 10:45:43,460 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 10:45:43,463 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 10:45:43,466 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 10:59:01,017 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (dae462fc1c08d72fbfc39e192ae88c19)
+2018-05-15 10:59:11,430 - Customer -INFO - Login Status : RAIS
+2018-05-15 10:59:15,668 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 10:59:58,653 - TestCase1 -INFO - Batch from spreasheet: 16H05R1
+2018-05-15 11:00:20,910 - TestCase1 -INFO - Batch: 16H05R1
+2018-05-15 11:00:20,965 - TestCase1 -INFO - Price: $150.00
+2018-05-15 11:00:28,212 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 11:00:28,214 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 11:00:28,216 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 11:08:29,660 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (8762703039bb5acd46b74c3747c6484a)
+2018-05-15 11:08:40,935 - Customer -INFO - Login Status : RAIS
+2018-05-15 11:08:45,202 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 11:09:28,941 - TestCase1 -INFO - Batch from spreasheet: 16H05R1
+2018-05-15 11:09:51,205 - TestCase1 -INFO - Batch: 16H05R1
+2018-05-15 11:09:51,249 - TestCase1 -INFO - Price: $150.00
+2018-05-15 11:10:07,712 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 11:25:20,917 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (d4106bf6bb00302d896ac58738696ec6)
+2018-05-15 11:25:31,323 - Customer -INFO - Login Status : RAIS
+2018-05-15 11:25:35,575 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 11:27:25,077 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (87d6980df85d806eee3f379a584f34f9)
+2018-05-15 11:27:35,496 - Customer -INFO - Login Status : RAIS
+2018-05-15 11:27:40,456 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 11:28:25,252 - TestCase3 -INFO - Batch from spreadsheet: 16I06WQ
+2018-05-15 11:28:27,289 - MarketingPage -INFO - MarketingPage.closerGreeter2 - Error encountered
+2018-05-15 11:28:27,291 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 11:28:27,293 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 11:32:34,899 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (ed7e7311108e1bf22c8d6774c29da881)
+2018-05-15 11:32:45,601 - Customer -INFO - Login Status : RAIS
+2018-05-15 11:32:49,839 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 11:33:35,599 - TestCase3 -INFO - Batch from spreadsheet: 16K0RDC
+2018-05-15 11:33:39,812 - TestCase3 -INFO - Batch from spreadsheet: 10K0L16
+2018-05-15 11:34:01,985 - TestCase3 -INFO - Entered Batch: 16K0RDC
+2018-05-15 11:34:02,030 - TestCase3 -INFO - Retail Price: $150.00
+2018-05-15 11:34:16,797 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 11:34:24,016 - OrdSummaryPage -INFO - SubTotal: $287.00
+2018-05-15 11:34:24,061 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 11:54:04,353 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (35bfc34b20b98e480414a9d4f0f70a2b)
+2018-05-15 11:54:14,751 - Customer -INFO - Login Status : RAIS
+2018-05-15 11:54:18,970 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 11:55:18,528 - TestCase3 -INFO - Entered Batch: 16K0RDC
+2018-05-15 11:55:18,573 - TestCase3 -INFO - Retail Price item 1 : $150.00
+2018-05-15 11:55:18,623 - TestCase3 -INFO - Entered Batch: 10K0L16
+2018-05-15 11:55:18,668 - MarketingPage -INFO - MarketingPage.closerGreeter2 - Error encountered
+2018-05-15 11:55:18,671 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 11:55:18,676 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 12:00:03,484 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (f2c7456f22dae38bc66148034f4528d4)
+2018-05-15 12:00:13,878 - Customer -INFO - Login Status : RAIS
+2018-05-15 12:00:18,216 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 12:01:18,883 - TestCase3 -INFO - Entered first Batch: 16K0RDC
+2018-05-15 12:01:18,931 - TestCase3 -INFO - Retail Price item 1 : $150.00
+2018-05-15 12:01:18,981 - TestCase3 -INFO - Entered second Batch: 10K0L16
+2018-05-15 12:01:19,026 - TestCase3 -INFO - Retail Price item 2 : $137.00
+2018-05-15 12:01:33,661 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 12:01:40,864 - OrdSummaryPage -INFO - SubTotal: $287.00
+2018-05-15 12:01:40,911 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 12:15:14,550 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (ff8af4981a430a427dbfc2f83b28486e)
+2018-05-15 12:15:24,967 - Customer -INFO - Login Status : RAIS
+2018-05-15 12:15:29,290 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 12:16:18,841 - TestCase3 -INFO - Entered first Batch: 16K0RDC
+2018-05-15 12:16:18,887 - TestCase3 -INFO - Retail Price item 1 : $150.00
+2018-05-15 12:16:18,934 - TestCase3 -INFO - Entered second Batch: 10K0L16
+2018-05-15 12:16:18,977 - TestCase3 -INFO - Retail Price item 2 : $137.00
+2018-05-15 12:16:33,512 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 12:16:40,716 - OrdSummaryPage -INFO - SubTotal: $287.00
+2018-05-15 12:16:40,774 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 12:58:31,300 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (da4a618c59c919c88380b90f0a1adffa)
+2018-05-15 12:58:41,697 - Customer -INFO - Login Status : RAIS
+2018-05-15 12:58:46,027 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 12:59:30,226 - Customer -INFO - Customer: 4001256428
+2018-05-15 13:02:09,596 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (427b922da3eeffd5bb459c0d16b349a3)
+2018-05-15 13:02:19,999 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:02:24,228 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 13:03:08,595 - Customer -INFO - Customer: 4001256429
+2018-05-15 13:03:44,823 - TestCase1 -INFO - Batch entered: 16H05R1
+2018-05-15 13:03:44,868 - TestCase1 -INFO - Retail Price item 1 : $150.00
+2018-05-15 13:03:44,980 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-05-15 13:03:44,984 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 13:03:44,986 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 13:03:44,988 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 13:12:46,768 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (c5504e117c0a955247f94c7c040089ff)
+2018-05-15 13:12:57,173 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:13:01,421 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 13:13:43,741 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-05-15 13:13:43,744 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 13:13:43,748 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 13:13:43,750 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 13:18:57,449 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (4c97389459588168c1a5a3c4e9085fa7)
+2018-05-15 13:19:07,836 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:19:12,061 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 13:20:05,729 - TestCase1 -INFO - Batch entered: 16H05R1
+2018-05-15 13:20:05,775 - TestCase1 -INFO - Retail Price item 1 : $150.00
+2018-05-15 13:20:05,881 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-05-15 13:20:05,891 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 13:20:05,893 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 13:20:05,895 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 13:25:04,600 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (27f6388be9a1550f2dc2ee3a35abb21f)
+2018-05-15 13:25:14,973 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:25:19,205 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 13:26:13,102 - TestCase1 -INFO - Batch entered: 16H05R1
+2018-05-15 13:26:13,162 - TestCase1 -INFO - Retail Price item 1 : $150.00
+2018-05-15 13:26:30,218 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 13:26:37,442 - OrdSummaryPage -INFO - SubTotal: $150.00
+2018-05-15 13:26:37,488 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 13:26:59,019 - TestCase1 -INFO - Total amount :$150.00
+2018-05-15 13:26:59,066 - TestCase1 -INFO - Due Paid : $150.00
+2018-05-15 13:33:34,284 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (73312ac2d5fd5d0f54501f12070d4df0)
+2018-05-15 13:33:44,666 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:33:48,882 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 13:34:43,321 - TestCase1 -INFO - Batch entered: 17A0L3Z
+2018-05-15 13:34:43,371 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-15 13:34:43,483 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-05-15 13:34:43,487 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 13:34:43,493 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 13:34:43,497 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 13:39:23,235 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (9658d30b703896b01d1a1ffe6cbe93e8)
+2018-05-15 13:39:33,883 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:39:38,062 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 13:40:32,283 - TestCase1 -INFO - Batch entered: 17A0L3Z
+2018-05-15 13:40:32,327 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-15 13:40:32,422 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-05-15 13:40:32,431 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 13:40:32,433 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 13:40:32,435 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 13:47:03,846 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (5518a240dd110660110b506224325b28)
+2018-05-15 13:47:14,265 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:47:18,609 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 13:59:39,999 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (5fc8f3c637c04b4d01ef1af47eb2123f)
+2018-05-15 13:59:50,454 - Customer -INFO - Login Status : RAIS
+2018-05-15 13:59:54,629 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 14:04:30,020 - TestCase1 -INFO - Batch entered: 17A0L3Z
+2018-05-15 14:04:33,068 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-15 14:12:20,455 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (299a7040bc031c3dd5aa3d050de82b3a)
+2018-05-15 14:12:30,794 - Customer -INFO - Login Status : RAIS
+2018-05-15 14:12:34,988 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 14:13:20,584 - TestCase1 -INFO - TestCase1.addItemPage - Error encountered
+2018-05-15 14:13:20,588 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 14:13:20,590 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 14:13:20,594 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 14:28:39,334 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (e05047adf674b1629ecbe8bcc6f4f3fd)
+2018-05-15 14:28:49,677 - Customer -INFO - Login Status : RAIS
+2018-05-15 14:28:53,866 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 14:29:40,900 - TestCase1 -INFO - Batch entered: 17A0L3Z
+2018-05-15 14:29:40,938 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-15 14:29:57,256 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 14:30:04,435 - OrdSummaryPage -INFO - SubTotal: $70.00
+2018-05-15 14:30:04,471 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 14:30:25,895 - TestCase1 -INFO - Total amount :$70.00
+2018-05-15 14:30:25,934 - TestCase1 -INFO - Due Paid : $70.00
+2018-05-15 14:54:12,430 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (7e52f0ec00c3d7aa38eba610dcb619eb)
+2018-05-15 14:54:22,777 - Customer -INFO - Login Status : RAIS
+2018-05-15 14:54:26,971 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 14:55:13,791 - TestCase1 -INFO - TestCase1.addItemPage - Failed to add an item
+2018-05-15 14:55:13,795 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 14:55:13,797 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 14:55:13,799 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 15:00:11,181 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (1e0d04207085d6e993c2d98ecb7eef6f)
+2018-05-15 15:00:21,527 - Customer -INFO - Login Status : RAIS
+2018-05-15 15:00:25,700 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 15:01:16,720 - TestCase1 -INFO - Batch entered: 16J0XTF
+2018-05-15 15:01:16,760 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-15 15:01:32,856 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 15:01:40,024 - OrdSummaryPage -INFO - SubTotal: $70.00
+2018-05-15 15:01:40,061 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 15:02:01,492 - TestCase1 -INFO - Total amount :$70.00
+2018-05-15 15:02:01,528 - TestCase1 -INFO - Due Paid : $70.00
+2018-05-15 15:30:42,781 - Customer -INFO - CSC URL: ChromeDriver: chrome on XP (1c76e06207324173ca3951984e42ad80)
+2018-05-15 15:30:53,133 - Customer -INFO - Login Status : RAIS
+2018-05-15 15:30:57,310 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 15:31:47,872 - TestCase1 -INFO - Batch entered: 16F0ACE
+2018-05-15 15:31:47,906 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-15 15:32:04,128 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 15:32:11,315 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-15 15:32:11,354 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 15:32:32,763 - TestCase1 -INFO - Total amount :$140.00
+2018-05-15 15:32:32,799 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-15 15:36:47,652 - Customer -INFO - CSC QA application displayed
+2018-05-15 15:36:57,988 - Customer -INFO - Login Status : RAIS
+2018-05-15 15:37:02,186 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 15:40:42,319 - TestCase1 -INFO - Batch entered: 16F0ACE
+2018-05-15 15:40:49,942 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-15 15:42:35,931 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 15:42:48,737 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-15 15:42:48,784 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 15:43:11,285 - TestCase1 -INFO - Total amount :$140.00
+2018-05-15 15:43:11,331 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-15 15:44:00,309 - TestCase1 -INFO - Customer Sales - 1108311
+2018-05-15 15:48:40,603 - Customer -INFO - CSC QA application displayed
+2018-05-15 15:48:50,946 - Customer -INFO - Login Status : RAIS
+2018-05-15 15:48:55,135 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 15:49:45,769 - TestCase1 -INFO - Batch entered: 16G03D5
+2018-05-15 15:49:45,805 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-15 15:50:02,127 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 15:50:09,307 - OrdSummaryPage -INFO - SubTotal: $70.00
+2018-05-15 15:50:09,343 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 15:50:30,761 - TestCase1 -INFO - Total amount :$70.00
+2018-05-15 15:50:30,802 - TestCase1 -INFO - Due Paid : $70.00
+2018-05-15 15:53:25,925 - Customer -INFO - CSC QA application displayed
+2018-05-15 15:53:36,259 - Customer -INFO - Login Status : RAIS
+2018-05-15 15:53:40,452 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 15:54:31,063 - TestCase1 -INFO - Batch entered: 15H02R6
+2018-05-15 15:54:31,102 - TestCase1 -INFO - Retail Price item 1 : $95.00
+2018-05-15 15:54:48,133 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 15:54:55,326 - OrdSummaryPage -INFO - SubTotal: $95.00
+2018-05-15 15:54:55,361 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 15:55:16,810 - TestCase1 -INFO - Total amount :$95.00
+2018-05-15 15:55:16,846 - TestCase1 -INFO - Due Paid : $95.00
+2018-05-15 21:45:01,331 - Customer -INFO - CSC QA application displayed
+2018-05-15 21:45:11,649 - Customer -INFO - Login Status : RAIS
+2018-05-15 21:45:15,830 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 21:49:55,691 - Customer -INFO - CSC QA application displayed
+2018-05-15 21:50:06,001 - Customer -INFO - Login Status : RAIS
+2018-05-15 21:50:10,182 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 21:56:13,893 - Customer -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-15 21:56:24,190 - Customer -INFO - Login Status : RAIS
+2018-05-15 21:56:28,356 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 21:57:21,736 - TestCase1 -INFO - TestCase1.addItemPage - Failed to add an item
+2018-05-15 21:57:21,742 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-15 21:57:21,744 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-15 21:57:21,747 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-15 22:27:01,722 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-15 22:27:12,056 - Customer -INFO - Login Status : RAIS
+2018-05-15 22:27:16,242 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-15 22:28:15,043 - TestCase1 -INFO - Batch entered: 15H02R6
+2018-05-15 22:28:15,079 - TestCase1 -INFO - Retail Price item 1 : $95.00
+2018-05-15 22:28:31,315 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-15 22:28:38,477 - OrdSummaryPage -INFO - SubTotal: $95.00
+2018-05-15 22:28:38,511 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-15 22:28:54,912 - TestCase1 -INFO - Total amount :$95.00
+2018-05-15 22:28:54,949 - TestCase1 -INFO - Due Paid : $95.00
+2018-05-16 09:51:14,736 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 09:51:25,064 - Customer -INFO - Login Status : RAIS
+2018-05-16 09:51:29,262 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 09:52:28,901 - TestCase1 -INFO - Batch entered: 16L0KGD
+2018-05-16 09:52:28,940 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-16 09:52:45,401 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 09:52:52,565 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-16 09:52:52,601 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 09:53:09,010 - TestCase1 -INFO - Total amount :$140.00
+2018-05-16 09:53:09,048 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-16 09:53:37,521 - TestCase1 -INFO - Customer Sales - 1108331
+2018-05-16 11:00:32,959 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 11:00:43,289 - Customer -INFO - Login Status : RAIS
+2018-05-16 11:00:47,472 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 11:02:25,601 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 11:02:35,912 - Customer -INFO - Login Status : RAIS
+2018-05-16 11:02:40,101 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 11:03:24,098 - Customer -INFO - Customer: 4001256445
+2018-05-16 11:04:10,871 - TestCase1 -INFO - Batch entered: 16L0KGE
+2018-05-16 11:04:10,906 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-16 11:04:27,003 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 11:04:34,178 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-16 11:04:34,212 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 11:04:50,666 - TestCase1 -INFO - Total amount :$140.00
+2018-05-16 11:04:50,703 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-16 11:09:23,324 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 11:09:33,644 - Customer -INFO - Login Status : RAIS
+2018-05-16 11:09:37,827 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 11:10:24,525 - Customer -INFO - Customer: 4001256446
+2018-05-16 11:11:10,881 - TestCase1 -INFO - Batch entered: 16L0KHQ
+2018-05-16 11:11:10,920 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-16 11:11:27,193 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 11:11:34,385 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-16 11:11:34,419 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 11:11:50,834 - TestCase1 -INFO - Total amount :$140.00
+2018-05-16 11:11:50,873 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-16 11:16:55,887 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 11:17:06,236 - Customer -INFO - Login Status : RAIS
+2018-05-16 11:17:10,434 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 11:17:56,783 - Customer -INFO - Customer: 4001256447
+2018-05-16 11:18:44,038 - TestCase1 -INFO - Batch entered: 16L0KHU
+2018-05-16 11:18:44,077 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-16 11:19:00,966 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 11:19:09,991 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-16 11:19:10,028 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 11:19:26,460 - TestCase1 -INFO - Total amount :$140.00
+2018-05-16 11:19:26,501 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-16 11:19:59,956 - TestCase1 -INFO - Customer Sales - 1108335
+2018-05-16 11:20:38,083 - TestCase2 -INFO - Entered first Batch: 16I01SB
+2018-05-16 11:20:38,120 - TestCase2 -INFO - Retail Price item 1 : $150.00
+2018-05-16 11:20:38,212 - MarketingPage -INFO - MarketingPage.closerGreeter1 - Error encountered
+2018-05-16 11:20:38,216 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-16 11:27:05,294 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 11:27:15,620 - Customer -INFO - Login Status : RAIS
+2018-05-16 11:27:19,813 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 11:28:06,664 - Customer -INFO - Customer: 4001256448
+2018-05-16 11:28:53,154 - TestCase1 -INFO - Batch entered: 16L0KHU
+2018-05-16 11:28:53,191 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-16 11:29:11,278 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 11:29:18,449 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-16 11:29:18,484 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 11:29:35,716 - TestCase1 -INFO - Total amount :$140.00
+2018-05-16 11:29:35,753 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-16 11:31:52,804 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 11:32:03,143 - Customer -INFO - Login Status : RAIS
+2018-05-16 11:32:07,319 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 11:32:52,224 - Customer -INFO - Customer: 4001256449
+2018-05-16 11:33:39,429 - TestCase1 -INFO - Batch entered: 16L0KHX
+2018-05-16 11:33:39,465 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-16 11:33:55,816 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 11:34:02,972 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-16 11:34:03,006 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 11:34:19,431 - TestCase1 -INFO - Total amount :$140.00
+2018-05-16 11:34:19,466 - TestCase1 -INFO - Due Paid : $140.00
+2018-05-16 11:39:43,890 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 11:39:54,212 - Customer -INFO - Login Status : RAIS
+2018-05-16 11:39:58,403 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 11:40:42,181 - Customer -INFO - Customer: 4001256450
+2018-05-16 11:41:28,302 - TestCase1 -INFO - TestCase1.addItemPage - Failed to add an item
+2018-05-16 11:41:28,305 - MarketingPage -INFO - MarketingPage.closerOnly - Error encountered
+2018-05-16 11:41:28,307 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-16 11:41:28,310 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-16 12:36:29,098 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 12:36:39,413 - Customer -INFO - Login Status : RAIS
+2018-05-16 12:36:43,597 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 12:37:29,588 - Customer -INFO - Customer: 4001256455
+2018-05-16 12:38:15,727 - TestCase1 -INFO - Batch entered: 16J09VN
+2018-05-16 12:38:15,763 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-16 12:38:31,922 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 12:38:39,105 - OrdSummaryPage -INFO - SubTotal: $70.00
+2018-05-16 12:38:39,140 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 12:38:55,598 - TestCase1 -INFO - Total amount :$70.00
+2018-05-16 12:38:55,637 - TestCase1 -INFO - Due Paid : $70.00
+2018-05-16 12:57:25,161 - LogIn_LogOut -INFO - CSC QA URL: http://csctest.wsmcorp.com/
+2018-05-16 12:57:35,497 - Customer -INFO - Login Status : RAIS
+2018-05-16 12:57:39,682 - Store -INFO - Store: 0010 - Shane Co. Portland
+2018-05-16 12:58:23,402 - Customer -INFO - Customer: 4001256464
+2018-05-16 12:59:09,663 - TestCase1 -INFO - Batch entered: 16I0K85
+2018-05-16 12:59:09,700 - TestCase1 -INFO - Retail Price item 1 : $70.00
+2018-05-16 12:59:25,854 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 12:59:33,012 - OrdSummaryPage -INFO - SubTotal: $70.00
+2018-05-16 12:59:33,045 - OrdSummaryPage -INFO - Tax: $0.00
+2018-05-16 12:59:49,448 - TestCase1 -INFO - Total amount :$70.00
+2018-05-16 12:59:49,486 - TestCase1 -INFO - Due Paid : $70.00
+2018-05-16 13:17:48,255 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-16 13:17:58,572 - Customer -INFO - Login Status : RAIS
+2018-05-16 13:18:02,763 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-16 13:18:46,493 - Customer -INFO - Customer: 4000815142
+2018-05-16 13:19:32,965 - TestCase1 -INFO - Batch entered: 16B05B5
+2018-05-16 13:19:33,000 - TestCase1 -INFO - Retail Price item 1 : $75.00
+2018-05-16 13:19:49,538 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 13:19:56,718 - OrdSummaryPage -INFO - SubTotal: $75.00
+2018-05-16 13:19:56,753 - OrdSummaryPage -INFO - Tax: $7.80
+2018-05-16 13:20:13,160 - TestCase1 -INFO - Total amount :$82.80
+2018-05-16 13:20:13,201 - TestCase1 -INFO - Due Paid : $82.80
+2018-05-16 13:20:56,686 - TestCase1 -INFO - Customer Sales - 1005906
+2018-05-16 13:21:39,974 - MarketingPage -INFO - MarketingPage.closerGreeter1 - Error encountered
+2018-05-16 13:21:39,977 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-16 14:55:33,240 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-16 14:55:43,581 - Customer -INFO - Login Status : RAIS
+2018-05-16 14:55:47,764 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-16 14:56:32,059 - Customer -INFO - Customer: 4000815145
+2018-05-16 14:57:18,585 - TestCase1 -INFO - Batch entered: 16C060Q
+2018-05-16 14:57:18,620 - TestCase1 -INFO - Retail Price item 1 : $130.00
+2018-05-16 14:57:34,766 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 14:57:41,939 - OrdSummaryPage -INFO - SubTotal: $130.00
+2018-05-16 14:57:41,974 - OrdSummaryPage -INFO - Tax: $13.52
+2018-05-16 14:57:58,383 - TestCase1 -INFO - Total amount :$143.52
+2018-05-16 14:57:58,421 - TestCase1 -INFO - Due Paid : $143.52
+2018-05-16 14:58:26,881 - TestCase1 -INFO - Customer Sales - 1005909
+2018-05-16 14:59:12,540 - TestCase2 -INFO - Entered first Batch: 16C0600
+2018-05-16 14:59:12,575 - TestCase2 -INFO - Retail Price item 1 : $130.00
+2018-05-16 14:59:28,490 - ItmProcessPage -INFO - Sale Type: Hold
+2018-05-16 14:59:35,665 - OrdSummaryPage -INFO - SubTotal: $130.00
+2018-05-16 14:59:35,701 - OrdSummaryPage -INFO - Tax: $13.52
+2018-05-16 14:59:47,884 - TestCase2 -INFO - Total amount :$143.52
+2018-05-16 14:59:47,919 - TestCase2 -INFO - Due Paid : $143.52
+2018-05-16 15:46:28,031 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-16 15:46:38,387 - Customer -INFO - Login Status : RAIS
+2018-05-16 15:46:42,571 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-16 15:47:26,125 - Customer -INFO - Customer: 4000815146
+2018-05-16 15:48:12,118 - TestCase1 -INFO - Batch entered: 16B059G
+2018-05-16 15:48:12,156 - TestCase1 -INFO - Retail Price item 1 : $75.00
+2018-05-16 15:48:28,379 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 15:48:35,536 - OrdSummaryPage -INFO - SubTotal: $75.00
+2018-05-16 15:48:35,573 - OrdSummaryPage -INFO - Tax: $7.80
+2018-05-16 15:48:51,976 - TestCase1 -INFO - Total amount :$82.80
+2018-05-16 15:48:52,054 - TestCase1 -INFO - Due Paid : $82.80
+2018-05-16 15:49:25,507 - TestCase1 -INFO - Customer Sales - 1005912
+2018-05-16 15:50:13,512 - TestCase2 -INFO - Entered first Batch: 16C0600
+2018-05-16 15:50:13,550 - TestCase2 -INFO - Retail Price item 1 : $130.00
+2018-05-16 15:50:27,881 - ItmProcessPage -INFO - Sale Type: Hold
+2018-05-16 15:50:35,069 - OrdSummaryPage -INFO - SubTotal: $130.00
+2018-05-16 15:50:35,106 - OrdSummaryPage -INFO - Tax: $13.52
+2018-05-16 15:50:47,256 - TestCase2 -INFO - Total amount :$143.52
+2018-05-16 15:50:47,295 - TestCase2 -INFO - Due Paid : $143.52
+2018-05-16 15:58:43,256 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-16 15:58:53,581 - Customer -INFO - Login Status : RAIS
+2018-05-16 15:58:57,768 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-16 15:59:42,185 - Customer -INFO - Customer: 4000815147
+2018-05-16 16:00:30,006 - TestCase1 -INFO - Batch entered: 16B059G
+2018-05-16 16:00:30,046 - TestCase1 -INFO - Retail Price item 1 : $75.00
+2018-05-16 16:00:46,101 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-16 16:00:53,267 - OrdSummaryPage -INFO - SubTotal: $75.00
+2018-05-16 16:00:53,302 - OrdSummaryPage -INFO - Tax: $7.80
+2018-05-16 16:01:09,695 - TestCase1 -INFO - Total amount :$82.80
+2018-05-16 16:01:09,731 - TestCase1 -INFO - Due Paid : $82.80
+2018-05-16 16:01:43,214 - TestCase1 -INFO - Customer Sales - 1005914
+2018-05-16 16:02:29,087 - TestCase2 -INFO - Entered first Batch: 16C0600
+2018-05-16 16:02:29,121 - TestCase2 -INFO - Retail Price item 1 : $130.00
+2018-05-16 16:02:45,391 - ItmProcessPage -INFO - Sale Type: Hold
+2018-05-16 16:02:52,553 - OrdSummaryPage -INFO - SubTotal: $130.00
+2018-05-16 16:02:52,589 - OrdSummaryPage -INFO - Tax: $13.52
+2018-05-16 16:03:04,785 - TestCase2 -INFO - Total amount :$143.52
+2018-05-16 16:03:04,821 - TestCase2 -INFO - Due Paid : $143.52
+2018-05-17 15:41:39,006 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-17 15:41:49,426 - Customer -INFO - Login Status : RAIS
+2018-05-17 15:41:53,635 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-17 15:43:46,434 - Customer -INFO - Customer: 4000815151
+2018-05-17 15:44:32,599 - TestCase1 -INFO - Batch entered: 16B05GB
+2018-05-17 15:44:32,645 - TestCase1 -INFO - Retail Price item 1 : $85.00
+2018-05-17 15:44:48,919 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-17 15:44:56,146 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-17 15:44:56,190 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-17 15:45:12,800 - TestCase1 -INFO - Total amount :$93.84
+2018-05-17 15:45:12,844 - TestCase1 -INFO - Due Paid : $93.84
+2018-05-17 15:45:46,404 - TestCase1 -INFO - Customer Sales - 1005947
+2018-05-17 15:46:32,882 - TestCase2 -INFO - Entered first Batch: 16C0600
+2018-05-17 15:46:32,926 - TestCase2 -INFO - Retail Price item 1 : $130.00
+2018-05-17 15:46:52,344 - ItmProcessPage -INFO - Sale Type: Hold
+2018-05-17 15:46:57,517 - OrdSummaryPage -INFO - SubTotal: $130.00
+2018-05-17 15:46:57,560 - OrdSummaryPage -INFO - Tax: $13.52
+2018-05-17 15:47:09,807 - TestCase2 -INFO - Total amount :$143.52
+2018-05-17 15:47:09,854 - TestCase2 -INFO - Due Paid : $143.52
+2018-05-17 15:54:18,358 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-17 15:54:28,792 - Customer -INFO - Login Status : RAIS
+2018-05-17 15:54:33,031 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-17 15:55:17,065 - Customer -INFO - Customer: 4000815153
+2018-05-17 15:56:03,284 - TestCase1 -INFO - Batch entered: 16B05K4
+2018-05-17 15:56:03,345 - TestCase1 -INFO - Retail Price item 1 : $85.00
+2018-05-17 15:56:19,601 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-17 15:56:26,820 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-17 15:56:26,871 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-17 15:56:43,383 - TestCase1 -INFO - Total amount :$93.84
+2018-05-17 15:56:43,426 - TestCase1 -INFO - Due Paid : $93.84
+2018-05-17 15:57:17,004 - TestCase1 -INFO - Customer Sales - 1005949
+2018-05-17 15:58:02,812 - TestCase2 -INFO - Entered first Batch: 16C0600
+2018-05-17 15:58:02,855 - TestCase2 -INFO - Retail Price item 1 : $130.00
+2018-05-17 15:58:22,331 - ItmProcessPage -INFO - Sale Type: org.openqa.selenium.support.ui.Select@1a8da0f
+2018-05-17 15:58:29,541 - OrdSummaryPage -INFO - SubTotal: $130.00
+2018-05-17 15:58:29,582 - OrdSummaryPage -INFO - Tax: $13.52
+2018-05-18 13:13:50,659 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-18 13:14:01,075 - Customer -INFO - Login Status : RAIS
+2018-05-18 13:14:05,301 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-18 13:14:49,968 - Customer -INFO - Customer: 4000815155
+2018-05-18 13:15:36,394 - TestCase1 -INFO - Batch entered: 16B05K4
+2018-05-18 13:15:36,438 - TestCase1 -INFO - Retail Price item 1 : $85.00
+2018-05-18 13:15:52,577 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-18 13:16:01,805 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-18 13:16:01,844 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-18 13:16:18,306 - TestCase1 -INFO - Total amount :$93.84
+2018-05-18 13:16:18,344 - TestCase1 -INFO - Due Paid : $93.84
+2018-05-18 13:16:51,807 - TestCase1 -INFO - Customer Sales - 1005953
+2018-05-18 13:17:37,548 - TestCase2 -INFO - Entered first Batch: 16C0600
+2018-05-18 13:17:37,583 - TestCase2 -INFO - Retail Price item 1 : $130.00
+2018-05-18 13:17:58,841 - ItmProcessPage -INFO - Sale Type: org.openqa.selenium.support.ui.Select@1a8da0f
+2018-05-18 13:18:08,084 - OrdSummaryPage -INFO - SubTotal: $130.00
+2018-05-18 13:18:08,121 - OrdSummaryPage -INFO - Tax: $13.52
+2018-05-18 13:18:20,331 - TestCase2 -INFO - Total amount :$143.52
+2018-05-18 13:18:20,370 - TestCase2 -INFO - Due Paid : $0.00
+2018-05-18 13:18:54,585 - TestCase2 -INFO - Customer Sales - 1005954
+2018-05-18 13:19:40,576 - TestCase3 -INFO - Entered first Batch: 16C05Z2
+2018-05-18 13:19:40,627 - TestCase3 -INFO - Retail Price item 1 : $130.00
+2018-05-18 13:19:40,675 - TestCase3 -INFO - Entered second Batch: 16C062J
+2018-05-18 13:19:40,726 - TestCase3 -INFO - Retail Price item 2 : $130.00
+2018-05-18 13:19:55,258 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-18 13:20:04,491 - OrdSummaryPage -INFO - SubTotal: $260.00
+2018-05-18 13:20:04,533 - OrdSummaryPage -INFO - Tax: $27.04
+2018-05-18 13:20:26,152 - TestCase3 -INFO - Total Price: $287.04
+2018-05-18 13:20:55,597 - TestCase3 -INFO - Customer Sales - 1005955
+2018-05-18 13:59:06,328 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-18 13:59:16,691 - Customer -INFO - Login Status : RAIS
+2018-05-18 13:59:20,888 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-18 14:03:44,588 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-18 14:03:54,985 - Customer -INFO - Login Status : RAIS
+2018-05-18 14:03:59,207 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-18 14:04:57,755 - TestCase1 -INFO - Batch entered: 16C061V
+2018-05-18 14:04:57,807 - TestCase1 -INFO - Retail Price item 1 : $140.00
+2018-05-18 14:05:16,244 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-18 14:05:25,472 - OrdSummaryPage -INFO - SubTotal: $140.00
+2018-05-18 14:05:25,515 - OrdSummaryPage -INFO - Tax: $14.56
+2018-05-18 14:05:42,015 - TestCase1 -INFO - Total amount :$154.56
+2018-05-18 14:05:42,060 - TestCase1 -INFO - Due Paid : $154.56
+2018-05-18 14:06:15,655 - TestCase1 -INFO - Customer Sales - 1005956
+2018-05-18 14:21:25,442 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-18 14:21:35,838 - Customer -INFO - Login Status : RAIS
+2018-05-18 14:21:40,055 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-18 14:22:28,046 - TestCase1 -INFO - Batch entered: 16B05K2
+2018-05-18 14:22:28,093 - TestCase1 -INFO - Retail Price item 1 : $85.00
+2018-05-18 14:22:46,380 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-18 14:22:55,582 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-18 14:22:55,633 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-18 14:23:12,017 - TestCase1 -INFO - Total amount :$93.84
+2018-05-18 14:23:12,055 - TestCase1 -INFO - Due Paid : $93.84
+2018-05-18 14:23:45,563 - TestCase1 -INFO - Customer Sales - 1005957
+2018-05-18 15:54:19,081 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-18 15:54:29,476 - Customer -INFO - Login Status : RAIS
+2018-05-18 15:54:33,691 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-18 15:55:21,780 - TestCase1 -INFO - Batch entered: 15H02R3
+2018-05-18 15:55:21,826 - TestCase1 -INFO - Retail Price item 1 : $95.00
+2018-05-18 15:55:40,213 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-18 15:55:49,448 - OrdSummaryPage -INFO - SubTotal: $95.00
+2018-05-18 15:55:49,492 - OrdSummaryPage -INFO - Tax: $9.88
+2018-05-18 15:56:06,019 - TestCase1 -INFO - Total amount :$104.88
+2018-05-18 15:56:06,066 - TestCase1 -INFO - Due Paid : $104.88
+2018-05-18 15:56:39,673 - TestCase1 -INFO - Customer Sales - 1005958
+2018-05-18 15:57:07,484 - TestCase2 -INFO - Entered first Batch: 16B05H8
+2018-05-18 15:57:07,520 - TestCase2 -INFO - Retail Price item 1 : $85.00
+2018-05-18 15:57:23,847 - ItmProcessPage -INFO - Sale Type: org.openqa.selenium.support.ui.Select@dba6dc
+2018-05-18 15:57:33,060 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-18 15:57:33,096 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-18 15:57:45,295 - TestCase2 -INFO - Total amount :$93.84
+2018-05-18 15:57:45,332 - TestCase2 -INFO - Due Paid : $0.00
+2018-05-18 15:58:19,551 - TestCase2 -INFO - Customer Sales - 1005959
+2018-05-18 15:58:48,188 - TestCase3 -INFO - Entered first Batch: 16B05JH
+2018-05-18 15:58:48,231 - TestCase3 -INFO - Retail Price item 1 : $85.00
+2018-05-18 15:58:48,282 - TestCase3 -INFO - Entered second Batch: 16B05JT
+2018-05-18 15:58:48,327 - TestCase3 -INFO - Retail Price item 2 : $85.00
+2018-05-18 15:59:04,574 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-18 15:59:13,727 - OrdSummaryPage -INFO - SubTotal: $170.00
+2018-05-18 15:59:13,766 - OrdSummaryPage -INFO - Tax: $17.68
+2018-05-18 15:59:15,861 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-20 18:27:28,880 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-20 18:27:39,273 - Customer -INFO - Login Status : RAIS
+2018-05-20 18:27:43,480 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-20 18:28:00,318 - Customer -INFO - Customer: 4000815155
+2018-05-20 18:28:31,456 - TestCase1 -INFO - Batch entered: 16B05JH
+2018-05-20 18:28:31,498 - TestCase1 -INFO - Retail Price item 1 : $85.00
+2018-05-20 18:28:49,531 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-20 18:28:58,708 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-20 18:28:58,743 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-20 18:29:16,141 - TestCase1 -INFO - Total amount :$93.84
+2018-05-20 18:29:16,183 - TestCase1 -INFO - Due Paid : $93.84
+2018-05-20 18:29:49,659 - TestCase1 -INFO - Customer Sales - 1005962
+2018-05-20 18:30:17,691 - TestCase2 -INFO - Entered first Batch: 16B05JT
+2018-05-20 18:30:17,730 - TestCase2 -INFO - Retail Price item 1 : $85.00
+2018-05-20 18:30:33,966 - ItmProcessPage -INFO - Sale Type: org.openqa.selenium.support.ui.Select@e8bcbc
+2018-05-20 18:30:43,163 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-20 18:30:43,199 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-20 18:30:56,433 - TestCase2 -INFO - Total amount :$93.84
+2018-05-20 18:30:56,470 - TestCase2 -INFO - Due Paid : $0.00
+2018-05-20 18:31:30,646 - TestCase2 -INFO - Customer Sales - 1005963
+2018-05-20 18:31:58,783 - TestCase3 -INFO - Entered first Batch: 15B07H0
+2018-05-20 18:31:58,825 - TestCase3 -INFO - Retail Price item 1 : $140.00
+2018-05-20 18:31:58,882 - TestCase3 -INFO - Entered second Batch: 16A0FK9
+2018-05-20 18:31:58,952 - TestCase3 -INFO - Retail Price item 2 : $50.00
+2018-05-20 18:32:15,277 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-20 18:32:24,477 - OrdSummaryPage -INFO - SubTotal: $190.00
+2018-05-20 18:32:24,514 - OrdSummaryPage -INFO - Tax: $19.76
+2018-05-20 18:32:47,104 - TestCase3 -INFO - Total Price: $209.76
+2018-05-20 18:33:16,576 - TestCase3 -INFO - Customer Sales - 1005964
+2018-05-21 11:13:48,224 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-21 11:13:58,642 - Customer -INFO - Login Status : RAIS
+2018-05-21 11:14:02,852 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-21 11:14:19,779 - Customer -INFO - Customer: 4000815155
+2018-05-21 11:14:55,916 - TestCase1 -INFO - Batch entered: 16B096G
+2018-05-21 11:14:55,955 - TestCase1 -INFO - Retail Price item 1 : $60.00
+2018-05-21 11:15:14,230 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-21 11:15:23,418 - OrdSummaryPage -INFO - SubTotal: $60.00
+2018-05-21 11:15:23,455 - OrdSummaryPage -INFO - Tax: $6.24
+2018-05-21 11:15:40,855 - TestCase1 -INFO - Total amount :$66.24
+2018-05-21 11:15:40,892 - TestCase1 -INFO - Due Paid : $66.24
+2018-05-21 14:56:49,563 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-21 14:56:59,963 - Customer -INFO - Login Status : RAIS
+2018-05-21 14:57:04,184 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-21 14:57:21,219 - Customer -INFO - Customer: 4000815155
+2018-05-21 15:06:21,714 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-21 15:06:32,106 - Customer -INFO - Login Status : RAIS
+2018-05-21 15:06:36,321 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-21 15:06:53,258 - Customer -INFO - Customer: 4000815155
+2018-05-21 15:07:28,628 - TestCase1 -INFO - Batch entered: 16B05K4
+2018-05-21 15:07:28,676 - TestCase1 -INFO - Retail Price item 1 : $85.00
+2018-05-21 15:07:47,029 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-21 15:07:56,251 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-21 15:07:56,300 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-21 15:08:13,791 - TestCase1 -INFO - Total amount :$93.84
+2018-05-21 15:08:13,836 - TestCase1 -INFO - Due Paid : $93.84
+2018-05-21 15:08:57,397 - TestCase1 -INFO - Customer Sales - 1005966
+2018-05-21 15:09:27,679 - TestCase2 -INFO - Entered first Batch: 16C02NV
+2018-05-21 15:09:27,720 - TestCase2 -INFO - Retail Price item 1 : $60.00
+2018-05-21 15:09:44,244 - ItmProcessPage -INFO - Sale Type: org.openqa.selenium.support.ui.Select@e8bcbc
+2018-05-21 15:09:53,465 - OrdSummaryPage -INFO - SubTotal: $60.00
+2018-05-21 15:09:53,506 - OrdSummaryPage -INFO - Tax: $6.24
+2018-05-21 15:10:06,723 - TestCase2 -INFO - Total amount :$66.24
+2018-05-21 15:10:06,764 - TestCase2 -INFO - Due Paid : $0.00
+2018-05-21 15:10:50,983 - TestCase2 -INFO - Customer Sales - 1005967
+2018-05-21 15:11:19,105 - MarketingPage -INFO - MarketingPage.closerGreeter2 - Error encountered
+2018-05-21 15:11:19,106 - ItmProcessPage -INFO - ItmProcessPage.stndItmOption - Error encountered
+2018-05-21 15:11:19,108 - OrdSummaryPage -INFO - OrdSummaryPage.orderSum - Error encountered
+2018-05-21 15:20:14,040 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-21 15:20:24,401 - Customer -INFO - Login Status : RAIS
+2018-05-21 15:20:28,592 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-21 15:20:45,405 - Customer -INFO - Customer: 4000815155
+2018-05-21 15:21:20,375 - TestCase1 -INFO - Batch entered: 16B05JT
+2018-05-21 15:21:20,413 - TestCase1 -INFO - Retail Price item 1 : $85.00
+2018-05-21 15:21:38,602 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-21 15:21:47,795 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-21 15:21:47,833 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-21 15:22:05,278 - TestCase1 -INFO - Total amount :$93.84
+2018-05-21 15:22:05,318 - TestCase1 -INFO - Due Paid : $93.84
+2018-05-21 15:22:48,788 - TestCase1 -INFO - Customer Sales - 1005969
+2018-05-21 15:23:18,769 - TestCase2 -INFO - Entered first Batch: 16B05K2
+2018-05-21 15:23:18,805 - TestCase2 -INFO - Retail Price item 1 : $85.00
+2018-05-21 15:23:35,059 - ItmProcessPage -INFO - Sale Type: org.openqa.selenium.support.ui.Select@e8bcbc
+2018-05-21 15:23:44,240 - OrdSummaryPage -INFO - SubTotal: $85.00
+2018-05-21 15:23:44,275 - OrdSummaryPage -INFO - Tax: $8.84
+2018-05-21 15:23:57,477 - TestCase2 -INFO - Total amount :$93.84
+2018-05-21 15:23:57,514 - TestCase2 -INFO - Due Paid : $0.00
+2018-05-21 15:24:41,719 - TestCase2 -INFO - Customer Sales - 1005970
+2018-05-21 15:25:11,897 - TestCase3 -INFO - Entered first Batch: 16C02PR
+2018-05-21 15:25:11,948 - TestCase3 -INFO - Retail Price item 1 : $60.00
+2018-05-21 15:25:11,996 - TestCase3 -INFO - Entered second Batch: 16C04W4
+2018-05-21 15:25:12,042 - TestCase3 -INFO - Retail Price item 2 : $50.00
+2018-05-21 15:25:28,317 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-21 15:25:37,499 - OrdSummaryPage -INFO - SubTotal: $110.00
+2018-05-21 15:25:37,534 - OrdSummaryPage -INFO - Tax: $11.44
+2018-05-21 15:26:00,059 - TestCase3 -INFO - Total Price: $121.44
+
+
+
+2018-05-22 13:12:48,271 - LogIn_LogOut -INFO - CSC URL: http://cscdev.wsmcorp.com/
+2018-05-22 13:12:59,502 - Customer -INFO - Login Status : RAIS
+2018-05-22 13:13:03,736 - Store -INFO - Store: 0008 - Shane Co. Lynnwood
+2018-05-22 13:13:20,836 - Customer -INFO - Customer: 4000815155
+2018-05-22 13:13:54,991 - TestCase1 -INFO - Batch entered: 16A0NAL
+2018-05-22 13:13:55,037 - TestCase1 -INFO - Retail Price item 1 : $97.00
+2018-05-22 13:13:55,085 - TestCase1 -INFO - Sub Total: $97.00
+2018-05-22 13:14:16,012 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-22 13:14:25,209 - OrdSummaryPage -INFO - Tax: $10.09
+2018-05-22 13:14:25,253 - OrdSummaryPage -INFO - Total: $107.09
+2018-05-22 13:14:42,748 - TestCase1 -INFO - Total amount :$107.09
+2018-05-22 13:14:42,796 - TestCase1 -INFO - Due Paid : $107.09
+2018-05-22 13:15:26,358 - TestCase1 -INFO - Customer Sales - 1005996
+2018-05-22 13:15:56,603 - TestCase2 -INFO - Entered first Batch: 16A0NBR
+2018-05-22 13:15:56,646 - TestCase2 -INFO - Retail Price item 1 : $97.00
+2018-05-22 13:15:56,692 - TestCase2 -INFO - Sub Total: $97.00
+2018-05-22 13:16:15,585 - ItmProcessPage -INFO - Sale Type: Hold
+2018-05-22 13:16:24,801 - OrdSummaryPage -INFO - Tax: $10.09
+2018-05-22 13:16:24,841 - OrdSummaryPage -INFO - Total: $107.09
+2018-05-22 13:16:38,039 - TestCase2 -INFO - Total amount :$107.09
+2018-05-22 13:16:38,085 - TestCase2 -INFO - Due Paid : $0.00
+2018-05-22 13:17:22,296 - TestCase2 -INFO - Customer Sales - 1005997
+2018-05-22 13:17:52,658 - TestCase3 -INFO - Entered first Batch: 16A0N96
+2018-05-22 13:17:52,704 - TestCase3 -INFO - Retail Price item 1 : $97.00
+2018-05-22 13:17:52,753 - TestCase3 -INFO - Entered second Batch: 16C08MA
+2018-05-22 13:17:52,797 - TestCase3 -INFO - Retail Price item 2 : $70.00
+2018-05-22 13:17:52,845 - TestCase3 -INFO - Sub Total: $167.00
+2018-05-22 13:18:11,740 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-22 13:18:20,956 - OrdSummaryPage -INFO - Tax: $17.37
+2018-05-22 13:18:21,005 - OrdSummaryPage -INFO - Total: $184.37
+2018-05-22 13:18:43,590 - TestCase3 -INFO - Total Price: $184.37
+2018-05-22 13:19:28,001 - TestCase3 -INFO - Customer Sales - 1005998
+2018-05-22 13:20:17,563 - TestCase4 -INFO - Batch entered: 16C06FN
+2018-05-22 13:20:17,604 - TestCase4 -INFO - Retail Price item 1 : $60.00
+2018-05-22 13:20:17,647 - TestCase4 -INFO - Discount price: ($40.50)
+2018-05-22 13:20:17,694 - TestCase4 -INFO - Net Price: $19.50
+2018-05-22 13:20:17,735 - TestCase4 -INFO - Sub Total: $19.50
+2018-05-22 13:20:36,527 - ItmProcessPage -INFO - Sale Type: Standard Sale
+2018-05-22 13:20:45,719 - OrdSummaryPage -INFO - Tax: $2.03
+2018-05-22 13:20:45,758 - OrdSummaryPage -INFO - Total: $21.53
+2018-05-22 13:21:03,162 - TestCase4 -INFO - Total amount :$21.53
+2018-05-22 13:21:03,202 - TestCase4 -INFO - Due Paid : $21.53
+2018-05-22 13:21:46,721 - TestCase4 -INFO - Customer Sales - 1005999

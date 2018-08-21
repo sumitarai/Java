@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke TestSuite">
+	<test name="CSC QA Test" preserve-order="true">
+		<classes>
+			<class name="firsttestngpackage.TestNGDemo"></class>   
+			<class name="firsttestngpackage.SmokeTest"></class>
+
+		</classes>
+	</test>
+</suite>
+
